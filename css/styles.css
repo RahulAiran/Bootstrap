@@ -63,3 +63,9 @@ body {
 	background-color: #FFFFFF;
 	border: 1px solid #ddd;
 }
+
+#carouselButton{
+	right: 0px;
+	position: absolute;
+	bottom: 0px;
+}
